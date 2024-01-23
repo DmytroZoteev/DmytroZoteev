@@ -1,4 +1,4 @@
-### Hi there 👋
+Welcome to my GitHub profile. Feel free to explore my projects and connect with me. If you have any questions or just want to chat about coding.Happy coding!
 
 <!--
 **DmytroZoteev/DmytroZoteev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
